@@ -1,7 +1,7 @@
 <html>
  <p align="center">
   <img 
-    width="500"
+    width="430"
     height="685"
     src="https://user-images.githubusercontent.com/85471852/170636139-80fffdce-66ee-4ed9-b72c-1377692a1250.png"
   >
@@ -46,6 +46,9 @@
  
 <a href="https://github.com/BhaskarAnand-05" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="35" weight="35"/>
+</a>
+<a href="https://twitter.com/BhaskarAnand_05" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a><br/>
 <br/><br/>
 <p align="center">
