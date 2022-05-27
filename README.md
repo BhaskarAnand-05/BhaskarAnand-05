@@ -78,7 +78,7 @@
  <hr>
 <h2 align="center">Github Statistics</h2>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=BhaskarAnand-05&show_icons=true&line_height=21&theme=gotham" alt="my github stats" height ="175" width="480"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=BhaskarAnand-05&show_icons=true&line_height=21&theme=gotham" alt="my github stats" height ="175" width="480"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarAnand-05&layout=compact&theme=gotham" alt="languages" height="175">
 </p>
 
