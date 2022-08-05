@@ -3,11 +3,11 @@
   <img 
     width="430"
     height="500"
-    src=![Photolab-823917214](https://user-images.githubusercontent.com/85471852/183029280-3af8536e-ab9d-47cc-b87c-838fdd7d0dab.jpeg)
+    src="https://user-images.githubusercontent.com/85471852/183029280-3af8536e-ab9d-47cc-b87c-838fdd7d0dab.jpeg"
   >
 </p>
 
-<h1 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: large; ">Hi,There!!
+<h1 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: large; " align= "center">Hi,There!!
  <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="50" height="50"/>
 </h1>
  
