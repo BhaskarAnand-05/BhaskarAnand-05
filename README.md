@@ -18,8 +18,10 @@
 - 🌱 I’m currently working to improve on Machine Learning and Cryptography..
 - 💞️ I’m looking to collaborate on ML
 - 👷🏽‍♂️Looking for Opportunities
-- 📫 You can reach me through my socials mentioned
-<br/><br/><br/>
+- 📫 You can reach me through my socials mentioned.
+ 
+<br/><br/>
+ ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=BhaskarAnand-05.repoName)<br/>
 
 <p align="center">
 <img src="https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="100" height="100" allign="centre"/> <img src="https://media3.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100" height="100"/><img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952owhu2s55xdcpopiyf5kqy5jvpgem3yusodg2pt9t&rid=giphy.gif&ct=s" width="100" height="100"/><img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"/><img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="100"/><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif" width="100" height="100"/><img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b952phtpxuk4fvu40wvpiv9c9ar18pvmx2tusrz1s1dw&rid=giphy.gif&ct=s" width="100" height="100"/>
@@ -47,8 +49,8 @@
 <a href="https://twitter.com/BhaskarAnand_05" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;"  height="35" weight="35"/>
 </a>
-<a href="https://gmail.com/" target="mailto:bhaskaranand025@gmail.com">
-<img src = https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhaskaranand025@gmail.com) style="margin-bottom: 5px;"  height="35" weight="35"/></a><br/>
+<a href="mailto:bhaskaranand025@gmail.com">
+<img src = https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhaskaranand025@gmail.com) style="margin-bottom: 5px;"  height="35" weight="35"/></a><br/>
 <br/><br/>
 <p align="center">
 <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
