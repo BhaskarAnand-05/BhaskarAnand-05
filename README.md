@@ -24,8 +24,6 @@
 <p align="center">
 <img src="https://media2.giphy.com/avatars/mwooodward/cIe5MvDvX4Vc.gif" width="100" height="100" allign="centre"/> <img src="https://media3.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100" height="100"/><img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952owhu2s55xdcpopiyf5kqy5jvpgem3yusodg2pt9t&rid=giphy.gif&ct=s" width="100" height="100"/><img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"/><img src="https://media1.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" height="100"/><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif" width="100" height="100"/><img src="https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b952phtpxuk4fvu40wvpiv9c9ar18pvmx2tusrz1s1dw&rid=giphy.gif&ct=s" width="100" height="100"/>
  </p>
-
-<img src=https://spotify-recently-played-readme.vercel.app/api?user=31sp7sictedpnd66xpehj5uftvnq&unique={true|1|on|yes} align ="center">
   
 <hr>
 <h2 align="center">🤝 Connect with me</h2>
@@ -55,9 +53,12 @@
 <p align="center">
 <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
 </p>
-</hr>
+</hr><hr></hr>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sp7sictedpnd66xpehj5uftvnq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+### 🎧🎤🎙️🎶 Listen With ME
  
+
  <hr>
  
  ### 🛠 Languages and Tools
@@ -89,8 +90,6 @@
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BhaskarAnand-05&theme=tokyonight" />
  </p>
 
-
- </html>
 
 <!---
 BhaskarAnand-05/BhaskarAnand-05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
