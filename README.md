@@ -79,7 +79,9 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
- 
+ <p align="center">
+<img  width="600" height="80" src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="300">
+</p>
 </hr>
  
  <hr>
