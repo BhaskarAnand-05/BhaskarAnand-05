@@ -46,7 +46,7 @@
 <a href="https://github.com/BhaskarAnand-05" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="35" weight="35"/>
 </a>
-<a href="https://bhaskara.bio.link/" target="_blank">
+<a href="https://bhaskaranand-05.github.io/Bhaskar-Anand/" target="_blank">
 <img src=https://img.shields.io/badge/website-%2324292e.svg?&style=for-the-badge&logo=oculus&logoColor=white%20alt=oculus alt=oculus style="margin-bottom: 5px;"  height="35" weight="35"/>
 </a>
 <a href="https://twitter.com/i_m_B_Anand" target="_blank">
