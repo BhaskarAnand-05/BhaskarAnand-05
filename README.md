@@ -58,7 +58,7 @@
 <p align="center">
 <img width="600" height="50" src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" width="300">
 </p>
-</hr><hr></hr>
+</hr>
 
  
 
